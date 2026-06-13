@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+openai
+python-dotenv
+requests
+pandas
+plotly
+reportlab
+google-generativeai

@@ -1,0 +1,14 @@
+venv/
+**pycache**/
+.env
+.streamlit/
+
+*.pyc
+*.pyo
+*.pyd
+
+uploads/*
+!uploads/.gitkeep
+
+.DS_Store
+Thumbs.db
