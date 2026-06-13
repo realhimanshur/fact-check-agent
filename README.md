@@ -175,11 +175,9 @@ Upload a PDF containing claims like:
 
 ### Verification Results Dashboard
 ![Results Dashboard](screenshots/result.png)
-### Claim Detail with Evidence
-![Claim Detail](https://placehold.co/800x450/1f2937/ffffff?text=Claim+Detail+Screenshot)
 
 ### Download Report Page
-![Download Page](https://placehold.co/800x450/1f2937/ffffff?text=Download+Page+Screenshot)
+![Download Page]  (report/fact_check_report_20260613_203312.pdf)
 
 ---
 
