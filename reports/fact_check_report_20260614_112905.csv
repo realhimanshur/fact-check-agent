@@ -1,0 +1,689 @@
+Claim,Type,Page,Verdict,Confidence,Reasoning,Corrected Fact,Evidence,Sources
+The Earth revolves around the Sun.,TECHNICAL,1,VERIFIED,95%,"Multiple authoritative sources (Britannica, NASA, and Wikipedia) explicitly state and explain that Earth revolves around the Sun. Source 1, Source 2, Source 3, and Source 4 all confirm this fundamental astronomical fact, detailing the elliptical orbit and the approximate duration of one revolution (about 365.25 days). Source 5, while a Reddit discussion, also affirms the core claim while adding nuances about orbital variations.",,"Earth revolves around the Sun in an elliptical orbit, completing one trip in about 365.25 days, with slight variations due to gravitational influences from other celestial bodies. This revolution causes the seasons and the annual cycle of the year. | 4.6 billion years ago, a nebula collapsed. Its particles of dust and gas attracted one another through the force of gravity, causing the nebula to flatten into a spinning disk called the solar nebula. Parts of that disk eventually condensed to form the solar system. The newly formed planets inherited the angular momentum of the solar nebula—basically, keeping the original rotation going. (The Sun spins, too, but much slower—only about one rotation per month.) Earth doesn’t just rotate, though—it also revolves around the Sun. In approximately 365 days, 6 hours, and 9 minutes, Earth completes one full trip around our home star. This extra quarter of a day is a bit of a headache for our calendars. To keep things from getting out of whack, every four years we add one day. (Only in years [...] We often talk about the Sun rising and setting, but the Sun isn’t actually moving across our sky. Rather, we are witnessing Earth’s dual-motion journey through the solar system: rotating on its axis and revolving around the Sun. Every 24 hours, Earth completes a full rotation on its axis—an imaginary line that goes through the North and South Poles. As the globe turns counterclockwise, different parts of it face the Sun. When part of Earth turns to face the Sun, it’s daytime there. And when that part turns away, it’s nighttime. But why does Earth rotate in the first place? Because of how it was originally formed: probably from the collapse of a slowly rotating nebula, a giant cloud of gas and dust in the space between stars. About 4.6 billion years ago, a nebula collapsed. Its particles [...] of the solar nebula’s rotation, but why does it revolve around the Sun? Basically, because the Sun is so ridiculously big. The star is more than 100 times wider and 300,000 times more massive than our planet. As a result, its gravitational pull is significantly greater than that of any of the planets. The Sun’s gravity holds them in its orbit. Earth never stood a chance. But don't worry—we never get too close to the Sun. Earth’s forward momentum from its formation keeps it locked in a stable orbit, perfectly balancing gravity’s pull with the speed of our journey through space. So, the next time you see the Sun peek over the horizon, remember: You aren't just watching a sunrise. You’re witnessing another successful turn on our 4.6-billion-year-old commute. | Wikipedia
+
+# Earth's orbit
+
+Earth orbits the Sun at an average distance of 149.60 million km (92.96 million mi), or 8.317 light-minutes, in a counterclockwise direction as viewed from above the Northern Hemisphere. One complete orbit takes 365.256 days (1 sidereal year), during which time Earth has traveled 940 million km (584 million mi). Ignoring the influence of other Solar System bodies, Earth's orbit, also called Earth's revolution, is an ellipse with the Earth–Sun barycenter as one focus ""Focus (geometry)"") with a current eccentricity of 0.0167. Since this value is close to zero, the center of the orbit is relatively close to the center of the Sun (relative to the size of the orbit). [...] As seen from Earth, the planet's orbital prograde motion makes the Sun appear to move with respect to other stars at a rate of about 1° eastward per solar day (or a Sun or Moon diameter every 12 hours). Earth's orbital speed averages 29.78 km/s (18.50 mi/s; 107,208.00 km/h; 66,615.96 mph), which is fast enough to cover the planet's diameter in 7 minutes and the distance to the Moon in 4 hours. The point towards which the Earth in its solar orbit is directed at any given instant is known as the ""apex of the Earth's way"".
+
+From a vantage point above the north pole of either the Sun or Earth, Earth would appear to revolve in a counterclockwise direction around the Sun. From the same vantage point, both the Earth and the Sun would appear to rotate in a counterclockwise direction. [...] By astronomical convention, the four seasons are determined by the solstices (the two points in the Earth's orbit of the maximum tilt of the Earth's axis, toward the Sun or away from the Sun) and the equinoxes (the two points in the Earth's orbit where the Earth's tilted axis and an imaginary line drawn from the Earth to the Sun are exactly perpendicular to one another). The solstices and equinoxes divide the year up into four approximately equal parts. In the northern hemisphere winter solstice occurs on or about 21 December; summer solstice is near 21 June; spring equinox is around 20 March, and autumnal equinox is about 23 September. The effect of the Earth's axial tilt in the southern hemisphere is the opposite of that in the northern hemisphere, thus the seasons of the solstices and","Earth's Rotation & Revolution Around the Sun Explained | Britannica (https://www.britannica.com/video/Earth-rotation-axis-revolution-Sun/-159380) | Earth's orbit - Wikipedia (https://en.wikipedia.org/wiki/Earth%27s_orbit) | Chapter 2: Reference Systems - NASA Science (https://science.nasa.gov/learn/basics-of-space-flight/chapter2-1) | When the Earth orbits around the sun, relatively speaking, does it circle in the same path each time? : r/explainlikeimfive (https://www.reddit.com/r/explainlikeimfive/comments/14d07iv/eli5_when_the_earth_orbits_around_the_sun)"
+Water boils at 100C at standard atmospheric pressure.,TECHNICAL,1,VERIFIED,95%,"Multiple sources (1, 2, 3, 4, 5) explicitly state that water boils at 100°C (or approximately 100°C) at standard atmospheric pressure (often defined as 1 atmosphere or 101.3 kPa at sea level). Source 2 notes a more precise value of 99.97°C but confirms 100°C as the commonly given and historically defined boiling point.",,"Water boils at 100°C at standard atmospheric pressure, but this boiling point varies with altitude due to changes in atmospheric pressure. At higher altitudes, water boils at lower temperatures because the reduced pressure allows vapor pressure to equal atmospheric pressure at a lower temperature. | There are two conventions regarding the standard boiling point of water: The normal boiling point is commonly given as 100 °C (212 °F) (actually 99.97 °C (211.9 °F) following the thermodynamic definition of the Celsius scale based on the kelvin) at a pressure of 1 atm (101.325 kPa). The IUPAC-recommended standard boiling point of water at a standard pressure of 100 kPa (1 bar) is 99.61 °C (211.3 °F). For comparison, on top of Mount Everest, at 8,848 m (29,029 ft ""Foot (unit)"")) elevation, the pressure is about 34 kPa ""Pascal (unit)"") (255 Torr) and the boiling point of water is 71 °C (160 °F). The Celsius temperature scale was defined until 1954 by two points: 0 °C being defined by the water freezing point and 100 °C being defined by the water boiling point at standard atmospheric [...] Wikipedia
+
+# Boiling point
+
+The boiling point of a substance is the temperature at which the vapor pressure of a liquid equals the pressure surrounding the liquid and the liquid changes into a vapor.
+
+The boiling point of a liquid varies depending upon the surrounding environmental pressure. A liquid in a partial vacuum, i.e., under a lower pressure, has a lower boiling point than when that liquid is at atmospheric pressure. Because of this, water boils at 100°C (or with scientific precision: 99.97 °C (211.95 °F)) under standard pressure at sea level, but at 93.4 °C (200.1 °F) at 1,905 metres (6,250 ft) altitude. For a given pressure, different liquids will boil at different temperatures. [...] The normal boiling point (also called the atmospheric boiling point or the atmospheric pressure boiling point) of a liquid is the special case in which the vapor pressure of the liquid equals the defined atmospheric pressure at sea level, one atmosphere ""Atmosphere (unit)""). At that temperature, the vapor pressure of the liquid becomes sufficient to overcome atmospheric pressure and allow bubbles of vapor to form inside the bulk of the liquid. The standard boiling point has been defined by IUPAC since 1982 as the temperature at which boiling occurs under a pressure of one bar ""Bar (unit)"").
+
+The heat of vaporization is the energy required to transform a given quantity (a mol, kg, pound, etc.) of a substance from a liquid into a gas at a given pressure (often atmospheric pressure). | Atmospheric pressure is sometimes called barometric pressure. On Earth the atmospheric pressure (at sea level) is defined as 1 atmosphere (atm). Pure water boils at 100 degrees Celsius at Standard Pressure (1 atm).
+
+Other Videos
+
+All rights reserved. © 2019 Wayne Breslyn [...] ## Boiling & Atmospheric Pressure
+
+### 
+
+# Atmospheric Pressure and Boiling
+
+The boiling point of a liquid is directly affected by atmospheric pressure. This is the pressure exerted by the weight of the air molecules above the liquid.
+
+Video: Boiling & Atmospheric Pressure [...] Video: Boiling & Atmospheric Pressure
+
+In an open system this is called atmospheric pressure. The greater the pressure, the more energy required for liquids to boil, and the higher the boiling point.
+In an open system this can be visualized as air molecules colliding with the surface of the liquid and creating pressure. This pressure is transmitted throughout the liquid and makes it more difficult for bubbles to form and for boiling to take place. When the pressure is reduced, the liquid requires less energy to change to a gaseous phase and boiling occurs at a lower temperature.",Boiling point - Wikipedia (https://en.wikipedia.org/wiki/Boiling_point) | Boiling & Atmospheric Pressure (https://terpconnect.umd.edu/~wbreslyn/chemistry/pressure/atmo-pressure.html) | [Solved] What is the boiling point at standard atmospheric pressure a (https://testbook.com/question-answer/what-is-the-boiling-point-at-standard-atmospheric--61c59675634d3bb563f6384e) | Boiling Point (https://terpconnect.umd.edu/~wbreslyn/chemistry/pressure/boiling-point.html)
+Humans can breathe normally underwater without equipment.,TECHNICAL,1,FALSE,100%,"All provided sources consistently state that humans cannot breathe normally underwater without equipment. Humans lack the necessary biological structures, such as gills, to extract oxygen from water. Any form of underwater respiration for humans requires specialized equipment (e.g., scuba gear, rebreathers, artificial gills) or involves holding one's breath (freediving), which is not 'breathing normally'.","Humans cannot breathe normally underwater without specialized equipment. Our lungs are designed to process air, not water, and we lack the biological mechanisms to extract oxygen from water.","Humans cannot breathe underwater without equipment due to lung structure, but advanced diving gear like rebreathers and portable devices allow for underwater breathing. Freedivers can reach depths up to 214 meters using techniques and training. | Now, imagine diving with a lightweight, tankless underwater breathing apparatus—no bulky equipment, no complications—or wearing a helmet that not only keeps you breathing underwater but also lets you chat with your dive buddies via Bluetooth. Innovations like these in underwater breathing equipment would be a total game-changer, no question about it.
+
+For now, these portable underwater breathing devices are like an exciting trailer for a movie that hasn’t hit theaters yet. When will they arrive? Who knows. But in the meantime, we divers will keep taking deep breaths, whether with or without tanks, dreaming of a future where underwater breathing apparatus truly transforms how we explore the ocean. [...] This portable underwater breathing device is designed to function like artificial gills, allowing users to dive into shallow depths without the bulky gear of a traditional self-contained underwater breathing apparatus (SCUBA). According to its creators, the Triton filters oxygen from water using a microporous filtration system, enabling dives up to 4.5 meters (about 15 feet) for approximately 45 minutes.
+
+The device requires the user to bite onto a mouthpiece—similar to a snorkel—while two side compartments extract oxygen from the surrounding water.
+
+This tankless underwater breathing device promises to revolutionize shallow diving for snorkelers and recreational divers seeking a lightweight alternative to conventional diver breathing apparatus. [...] Rebreathers
+
+Rebreathers recycle exhaled air, remove carbon dioxide, and enrich it with oxygen again. Ideal for those who want to stay stealthy (no bubbles here!) or maximize their time underwater. This diving breathing apparatus is popular among professionals and tech divers looking for efficiency and silence.
+
+Snorkeling Breathing Devices for Shallow Diving
+
+If deep dives aren’t your thing, but you still want to experience breathing underwater, underwater breathing masks and snorkel systems are your answer. While they’re not traditional underwater breathing apparatuses, they let you breathe while floating near the surface without fully submerging. Lightweight, easy to use, and perfect for exploring reefs and marine life without lugging around full scuba gear. | worth 
+ modified 
+ today 
+ diving 
+ direction 
+ volume 
+ for 
+ balls 
+ breathing 
+ hunters 
+ ships 
+ with 
+ were 
+ for 
+ of 
+ the 
+ with 
+ air 
+ needs 
+ for 
+ inhaling 
+ is 
+ dense 
+ time 
+ for 
+ the 
+ a 
+ a 
+ mask 
+ easiest 
+ a 
+ breathing 
+ which 
+ water 
+ straw 
+ method 
+ but 
+ enemies 
+ possible 
+ one 
+ structure 
+ vent 
+ indians 
+ when 
+ uncomfortable 
+ not 
+ this 
+ also 
+ nowadays 
+ perfect 
+ diverse 
+ requirements 
+ equipment 
+ of 
+ is 
+ interesting 
+ modern 
+ underwater 
+ the 
+ pretty 
+ it's 
+ suit 
+ have 
+ work 
+ possible 
+ own 
+ find 
+ using 
+ how 
+ the 
+ is 
+ doesn't 
+ equipped 
+ adhesive 
+ come 
+ weight 
+ means 
+ remains 
+ back 
+ a 
+ inhales 
+ by 
+ idea 
+ the 
+ however 
+ not 
+ expose 
+ at 
+ please 
+ evolution 
+ breathe 
+ had 
+ around 
+ a 
+ breathe 
+ without 
+ some [...] breathe 
+ had 
+ around 
+ a 
+ breathe 
+ without 
+ some 
+ artificial 
+ looking 
+ directly 
+ everything 
+ refinement 
+ will 
+ yet 
+ for 
+ denmark 
+ absorb 
+ of 
+ breathing 
+ they 
+ water 
+ the 
+ oxygen 
+ immerse 
+ time 
+ special 
+ provide 
+ surrounding 
+ extra 
+ scientists 
+ times 
+ with 
+ time 
+ oxygen 
+ sounds 
+ left 
+ miraculous 
+ that 
+ finally 
+ we 
+ have 
+ back 
+ states 
+ capable 
+ the 
+ it 
+ spaceship 
+ battery 
+ and 
+ infinite 
+ not 
+ dream 
+ actually 
+ fluids 
+ realize 
+ abandoned 
+ russian 
+ tested 
+ pathology 
+ breathe 
+ his 
+ liquid 
+ of 
+ suffocate 
+ muscle 
+ guy 
+ and 
+ movements 
+ experiment 
+ safely 
+ were 
+ bravely 
+ common 
+ applicable 
+ breathing 
+ lungs 
+ pre-saturated 
+ for 
+ breath 
+ from 
+ well 
+ affirmative 
+ experiments 
+ during 
+ century 
+ then 
+ decade [...] 1652 comments
+### Transcript:
+hi 
+ inspired 
+ gills 
+ it's 
+ grow 
+ underwater 
+ nowadays 
+ to 
+ want 
+ repeat 
+ [Music] 
+ they 
+ to 
+ inflate 
+ breath 
+ first 
+ stay 
+ surface 
+ without 
+ exploring 
+ spheres 
+ ocean 
+ help 
+ airless 
+ designed 
+ simply 
+ for 
+ breathe 
+ allows 
+ several 
+ ability 
+ already 
+ years 
+ and 
+ expensive 
+ pretty 
+ today 
+ dive 
+ they 
+ materials 
+ extracting 
+ to 
+ discoveries 
+ ancient 
+ truth 
+ dangerous 
+ health 
+ pond 
+ breathe 
+ equipment 
+ times 
+ commonly 
+ diving 
+ container 
+ a 
+ diving 
+ of 
+ of 
+ resulting 
+ breathe 
+ the 
+ the 
+ under 
+ demonstrates 
+ bell 
+ designs 
+ world 
+ primitive 
+ alexander 
+ allowed 
+ underwater 
+ perhaps 
+ most 
+ divers 
+ and 
+ improved 
+ invention 
+ prototype 
+ worth 
+ modified 
+ today 
+ diving 
+ direction 
+ volume",3 Underwater Breathing Apparatus Innovations (https://www.dresseldivers.com/blog/underwater-breathing-apparatus-innovations) | 5 Insane Ways to Breathe Underwater (https://www.youtube.com/watch?v=AMeDBH6TccI) | What If We Could Breathe Underwater? | Humans with Superpowers | Super Freedivers | Dr. Binocs Show (https://www.youtube.com/watch?v=xWeGkics5CM) | How Deep Can a Human Go Underwater Without Scuba Gear? - Delphy Pool (https://www.delphypool.co.uk/how-deep-can-a-human-go-underwater-without-scuba-gear)
+The Moon produces its own light.,TECHNICAL,1,FALSE,100%,"All provided sources unequivocally state that the Moon does not produce its own light. Instead, the light we see from the Moon is sunlight that is reflected off its surface. Sources include an AI summary, an educational platform (Filo), an astronomy social media account, the Lunar and Planetary Institute, and NASA Science, all in agreement.",The Moon reflects light from the Sun; it does not produce its own light.,"The Moon does not produce its own light; it reflects sunlight. Moonlight is sunlight reflected off the Moon's surface. The Moon's phases are due to its position relative to the Sun and Earth. | filo Logo
+Search questions and Textbooks
+dropdown-logo
+App Store
+Play Store
+Arrow Icon
+Arrow Icon
+
+Question asked by Filo student
+
+# True or false? The moon produces its own light.
+
+True or false? The moon produces its own light.
+expand image
+Views
+
+Views: 5,682 students
+
+Updated on: May 7, 2026
+
+Cross
+
+Add an Image
+
+## Text SolutionText solutionverified iconVerified
+
+Text Solution
+verified icon
+
+### True or False: Does the Moon Produce Its Own Light?
+
+The statement ""The moon produces its own light"" is False.
+
+Explanation:
+
+So, the Moon's light is actually reflected sunlight, not light produced by the Moon itself.
+
+Add an Image
+
+### Students who ask this question also asked
+
+Views
+
+Views: 5,869
+
+Topic
+
+Topic:
+
+Smart Solutions
+
+View solution
+
+Views
+
+Views: 5,602
+
+Topic
+
+Topic: [...] View solution
+
+Views
+
+Views: 5,602
+
+Topic
+
+Topic:
+
+Smart Solutions
+
+View solution
+
+Views
+
+Views: 5,264
+
+Topic
+
+Topic:
+
+Smart Solutions
+
+View solution
+
+Views
+
+Views: 5,010
+
+Topic
+
+Topic:
+
+Smart Solutions
+
+View solution
+
+Profile
+
+Aqsa Meraj
+
+verified icon
+
+363 Students Taught
+
+12 Yrs Exp
+
+Experienced educationist with a creative approach to student needs
+
+View all Science Tutors
+
+Link
+
+|  |  |
+ --- |
+| Question Text | True or false? The moon produces its own light. |
+| Updated On | May 7, 2026 |
+| Topic | All topics |
+| Subject | Smart Solutions |
+| Class | Grade 8 |
+| Answer Type | Text solution: 1 |
+
+Are you ready to take control of your learning?
+
+Download Filo and start learning with your favorite tutors right away!
+
+appstore
+playstore
+footer-placeholder
+
+Questions from top courses [...] Questions from top courses
+
+Explore Tutors by Cities
+
+filo Logo
+ISO Certified
+
+Blog
+
+Knowledge
+
+facebook
+twitter
+instagram
+youtube
+linkedin
+
+© Copyright Filo EdTech INC. 2025 | thecosmosjourney's profile picture
+
+thecosmosjourney
+
+“The Moon does NOT produce its own light.  
+We see the Moon because sunlight hits it, and that reflected light reaches Earth.  
+Moon phases occur due to the changing angle between the Sun, Earth, and Moon.”  
+  
+#astronomy  
+#spacefacts  
+#moonphases  
+#spaceeducation  
+#astroscience  
+#cosmicwonder  
+#earthmoon  
+#sunchasers  
+#spaceexplained  
+#sciencevideo  
+#universetoday  
+#solarsystem  
+#moonlight  
+#spaceclass  
+#cosmoknowledge  
+#spacediagram  
+#astronomylovers  
+#spacevisual  
+#moonorbit  
+#earthscience  
+#celestialmotion  
+#spacelearning  
+#moonfacts  
+#sunlight  
+#astrocommunity  
+#spaceillustration  
+#cosmictruth  
+#spaceteacher  
+#learnastronomy  
+#spacepost
+
+bibash_vk's profile picture
+
+bibash\_vk
+
+Reply",True or false? The moon produces its own light. | Filo (https://askfilo.com/user-question-answers-smart-solutions/true-or-false-the-moon-produces-its-own-light-3438323135363039) | Instagram (https://www.instagram.com/reel/DSDhrf3E631?hl=en) | [PDF] Does the Moon Make It's Own Light - Lunar and Planetary Institute (https://www.lpi.usra.edu/education/lprp/content/people/pdfs/Investigate_Moon_Phases.pdf) | Moonlight - NASA Science (https://science.nasa.gov/moon/moonlight)
+The Great Wall of China is visible from space with the naked eye.,TECHNICAL,1,FALSE,95%,"Multiple reputable sources, including NASA and astronaut testimonies, consistently state that the Great Wall of China is not visible from space with the naked eye. While it can be captured with high-resolution satellite imagery or telephoto lenses, its narrow width makes it imperceptible without magnification.",The Great Wall of China is not visible from space with the naked eye; it can only be seen with magnification through cameras or high-resolution satellite imagery.,"The Great Wall of China is not visible to the naked eye from space. It can be seen with high-resolution satellite imagery, but not with the unaided eye. Astronauts have confirmed that no man-made objects are visible from space without magnification. | The Great Wall of China is not visible to the naked eye from space, even in low-earth orbit, according to NASA. Even though the wall is very long, it is also very thin, making it essentially invisible. In fact, no man-made objects are visible from space by the naked eye, according to astronauts. The earth is a very big place and human-sized objects are miniscule by comparison. With the help of zoom lenses, cameras in space can see much finer detail than human eyes. However, due to its thinness, the Great Wall of China is not the easiest man-made object for a camera in space to spot. If you slowly zoom in using a space camera, the Houston airport, for instance, is visible long before the Great Wall of China. Major highways radiating out like spokes from large cities are typically the most [...] out like spokes from large cities are typically the most visible structures from space for a camera. This is because valleys are typically blasted through the hills to make way for the straight highways. [...] Topics: Great Wall of China, satellite, visible from space | Sort by: 
+
+Best
+
+Open comment sort options
+
+   Best 
+   Top 
+   New 
+   Controversial 
+   Old 
+   Q&A 
+
+Image 8: u/Guilty_Writer3165 avatar
+
+Guilty_Writer3165
+
+•1y ago
+
+EDIT: I meant the Great Wall of China could not be seen from space with the naked eye. Sorry for any misconceptions😅
+
+ Reply  Share 
+
+ more replies 
+
+ more replies 
+
+more replies
+
+Image 9: u/Mu_Lambda_Theta avatar
+
+Mu_Lambda_Theta
+
+•1y ago• Edited 1y ago
+
+Its length would be very visible from space.
+
+The problem is that it's less than 10m wide.
+
+ Reply  Share 
+
+Image 10: u/Umikaloo avatar
+
+Umikaloo
+
+•1y ago
+
+Yeah, I never understood how this myth started in the first place.
+
+ Reply  Share 
+
+Image 11: u/premature_eulogy avatar
+
+premature_eulogy
+
+•1y ago [...] Reply  Share 
+
+[](
+
+Spork_Warrior
+
+•1y ago
+
+It depends entirely on who/what is doing the observing. Naked eye? You can't see the wall. Spy satellite? You can see a pack of cigarettes.
+
+ Reply  Share 
+
+Image 20: u/helican avatar
+
+helican
+
+•1y ago
+
+Great cigarette pack of china
+
+ Reply  Share 
+
+ more replies 
+
+ more replies 
+
+more replies
+
+[](
+
+westfieldram
+
+•1y ago
+
+But op's mum is
+
+ Reply  Share 
+
+ more replies 
+
+ more replies 
+
+more replies
+
+Image 21: u/OreoSpeedwaggon avatar
+
+OreoSpeedwaggon
+
+•1y ago
+
+I'm looking at it right now using satellite imagery on Google Maps that was captured _from space._
+
+ Reply  Share 
+
+[](
+
+DrumBxyThing
+
+•1y ago
+
+This is one of those ""facts"" I learned as a kid and then never thought about again, so never bothered to even think on it. Makes sense though. [...] more replies
+
+[](
+
+triodoubledouble
+
+•1y ago
+
+it's 17 dishwashers wide in american units.
+
+ Reply  Share 
+
+ more replies 
+
+ more replies 
+
+more replies
+
+ more replies 
+
+ more replies 
+
+more replies
+
+Image 13: u/HardcandyofJustice avatar
+
+HardcandyofJustice
+
+•1y ago
+
+Image 14: Profile Badge for the Achievement Top 1% CommenterTop 1% Commenter
+
+The thing is like 6m/21’ wide. I don’t know how this myth ever got stuck..
+
+ Reply  Share 
+
+ more replies 
+
+ more replies 
+
+more replies
+
+[](
+
+finc
+
+•1y ago
+
+You can see space from the Great Wall of China though, which seems unfair
+
+ Reply  Share 
+
+[](
+
+congradulations
+
+•1y ago
+
+There are more airplanes in the ocean than there are submarines in the sky
+
+ Reply  Share 
+
+ more replies 
+
+ more replies 
+
+more replies
+
+ more replies 
+
+ more replies","What makes the Great Wall of China the only man-made object visible from space? | Science Questions with Surprising Answers (https://www.wtamu.edu/~cbaird/sq/2012/12/11/what-makes-the-great-wall-of-china-the-only-man-made-object-visible-from-space) | TIL the Great Wall of China is not actually visible from space, its just ... (https://www.reddit.com/r/todayilearned/comments/1kg3uwe/til_the_great_wall_of_china_is_not_actually) | Google  Earth , Structures and Anomalies | I think most of us know it is a myth that the Great Wall of China is the only man-made structure that is visible from space | Facebook (https://www.facebook.com/groups/253550249143357/posts/1142773493554357) | Can you see the Great Wall of China from space? (https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space)"
