@@ -175,11 +175,9 @@ Upload a PDF containing claims like:
 
 ### Verification Results Dashboard
 ![Results Dashboard](screenshots/result.png)
-### Claim Detail with Evidence
-![Claim Detail](https://placehold.co/800x450/1f2937/ffffff?text=Claim+Detail+Screenshot)
 
 ### Download Report Page
-![Download Page](https://placehold.co/800x450/1f2937/ffffff?text=Download+Page+Screenshot)
+![Download Page]  (report/fact_check_report_20260613_203312.pdf)
 
 ---
 
@@ -201,3 +199,46 @@ Upload a PDF containing claims like:
 ---
 
 ## 📁 Project Structure
+
+fact-check-agent/
+│
+├── app.py # 🏠 Main Streamlit application entry point
+│ # Contains all UI views and page routing
+│
+├── requirements.txt # 📦 All Python dependencies with version pins
+├── README.md # 📖 This file
+├── .env.example # 🔑 Template for environment variables
+│
+├── utils/ # 🔧 Backend logic modules
+│ │
+│ ├── init.py # Package marker
+│ │
+│ ├── pdf_reader.py # 📄 PDF processing
+│ │ # • extract_text_from_pdf() — multi-page text
+│ │ # • render_first_page() — thumbnail generation
+│ │
+│ ├── claim_extractor.py # 🤖 AI claim detection
+│ │ # • extract_from_page() — LLM per-page call
+│ │ # • extract_all_claims() — async orchestrator
+│ │
+│ ├── search_engine.py # 🌐 Live web search
+│ │ # • tavily_search() — primary provider
+│ │ # • serper_search() — fallback provider
+│ │ # • search_evidence() — cache-aware dispatcher
+│ │
+│ ├── verifier.py # ✅ Verdict generation
+│ │ # • verify_single_claim() — search + LLM reason
+│ │ # • verify_claims() — async batch processor
+│ │
+│ ├── report_generator.py # 📊 Export engines
+│ │ # • generate_pdf() — styled PDF report
+│ │ # • generate_csv() — structured CSV export
+│ │
+│ └── helpers.py # 🔨 Shared utilities
+│ # • sanitize_filename()
+│ # • truncate_text()
+│ # • get_file_hash()
+│
+├── assets/ # 🖼️ Static assets (images, icons)
+├── uploads/ # 📤 Temporary upload storage
+└── reports/ # 📋 Generated report storage
